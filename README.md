@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **tclement0922/tclement0922** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi there 👋, I'm T. Clément</h1>
+<h3 align="center">A 17 years old french student</h3>
+
+
+<h3 align="left">Languages i'm using:</h3>
+<p align="left"> <a href="https://kotlinlang.org" target="_blank"> <img src="https://img.shields.io/badge/%20-Kotlin-blue?logo=kotlin&color=766DB2&logoColor=FFFFFF&style=for-the-badge" alt="kotlin"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://img.shields.io/badge/%20-Java-blue?logo=java&color=f89820&logoColor=FFFFFF&style=for-the-badge" alt="java" /> </a> <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/%20-Python-blue?logo=python&color=FFD43B&logoColor=000000&style=for-the-badge" alt="python" /> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://img.shields.io/badge/%20-Bash-blue?logo=gnubash&color=293137&logoColor=FFFFFF&style=for-the-badge" alt="bash" /> </a> </p>
