@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm @tclement0922</h1>
-<h3 align="center">A 17 yo french student.</h3>
+<h3 align="center">A 18 yo french student.</h3>
 
 <p align="justify">I like to tinker with my phone so I code mainly in Kotlin. I also helped to translate some open source projects.</p>
 
